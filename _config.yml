@@ -1,4 +1,6 @@
 title:          Learn To Code
 description:    Dumb down and think like a machine
-show_downloads: false
 theme:          jekyll-theme-cayman
+
+github:
+  is_project_page: false
