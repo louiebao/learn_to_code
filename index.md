@@ -1,9 +1,7 @@
-# Learn to Code
-
-## Table Of Contents
+# Table Of Contents
 - Variables
 - Functions
 
-## Variables 
+# Variables 
 
-## Functions
+# Functions
