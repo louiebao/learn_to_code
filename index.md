@@ -10,7 +10,9 @@
 - Functions
 - Objects
 - Framework
-
+- Database
+  - Object-Relational Mapping
+  
 # Intro
 
 Coding is hard and especially hard for beginners because once started down this path one can no longer simply rely on human intuition for solving everyday problems and instead will be required to dumb down and think like a machine. The goal of this project is to explain coding in a way that is easy for beginners to understand, and with no assumption of prior coding knowledge.
