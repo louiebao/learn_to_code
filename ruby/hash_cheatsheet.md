@@ -1,6 +1,8 @@
+# Ruby - Hash - Cheatsheet
+
 ### Basics
 |Syntax|Description|
-|---|---|
+|:--|:--|
 |h = {}        |Declare a new hash h.|
 |h1 == h2      |Return true if h1 and h2 contain the same number of keys and if each key-value pair is equal|
 |h[key]        |Retrieve the value object corresponding to the key object of hash h|
@@ -15,7 +17,7 @@
 
 ### Enumeration
 |Syntax|Description|
-|---|---|
+|:--|:--|
 |h.each      |Call block once for each key in hash h, passing the key-value pair as parameters (option 1)|
 |h.each_pair |Call block once for each key in hash h, passing the key-value pair as parameters (option 2)|
 |h.each_key  |Call block once for each key in hash h, passing the key as a parameter|
@@ -23,7 +25,7 @@
 
 ### Advanced Enumeration
 |Syntax|Description|
-|---|---|
+|:--|:--|
 |h.any?     |Pass each key, value of hash h to a block and return true if given block ever returns a value other than false or nil.|
 |h.reject   |Return a new hash consisting of entries for which the block returns false of hash h|
 |h.reject!  |Equivalent to delete_if, but return nil if no changes were made to hash h|
@@ -35,7 +37,7 @@
 
 ### Keys
 |Syntax|Description|
-|---|---|
+|:--|:--|
 |h.delete(key)  |Delete key-value pair and return value from hash h whose key is equal to key|
 |h.has_key?(key)|Return true if the given key is present in hash h (option 1)|
 |h.include?(key)|Return true if the given key is present in hash h (option 2)|
@@ -46,7 +48,7 @@
 
 ### Values
 |Syntax|Description|
-|---|---|
+|:--|:--|
 |h.default              |Return default value of hash h|
 |h.default = obj        |Set default value of hash h to obj|
 |h.fetch(key)           |Return a value from hash h for key. Raise exception if key not found.|
@@ -57,7 +59,7 @@
 
 ### Others
 |Syntax|Description|
-|---|---|
+|:--|:--|
 |h.flatten|Return a new array that is a one-dimensional flattening of hash h|
 |h.invert |Return a new hash created by using hash h's values as keys, and the keys as values|
 |h.shift  |Remove a key-value pair from hash h and return it as the two item array [key,value]|
