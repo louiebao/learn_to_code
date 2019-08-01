@@ -4,3 +4,4 @@
 |body-parser|Node.js body parsing middleware.|
 |cors|CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.|
 |express|Fast, unopinionated, minimalist web framework for Node.js|
+|nodemon|Monitor for any changes in your node.js application and automatically restart the server - perfect for development|
