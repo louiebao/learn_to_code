@@ -8,3 +8,4 @@
 |pg|Non-blocking PostgreSQL client for Node.js. Pure JavaScript and optional native libpq bindings|
 |morgan|HTTP request logger middleware for node.js|
 |nodemon|Monitor for any changes in your node.js application and automatically restart the server - perfect for development|
+|sweetalert2|A BEAUTIFUL, RESPONSIVE, CUSTOMIZABLE, ACCESSIBLE (WAI-ARIA) REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES|
